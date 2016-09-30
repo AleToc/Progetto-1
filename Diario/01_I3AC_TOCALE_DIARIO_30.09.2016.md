@@ -1,6 +1,6 @@
 # DIARIO
 
-**Data**: 23.09.2016
+**Data**: 30.09.2016
 
 **Lavori svolti**: Le prime due ore abbiamo trattato la progettazione.
 Le 4 ore ho cotinuato con la documentazione completando l'implementazione e
